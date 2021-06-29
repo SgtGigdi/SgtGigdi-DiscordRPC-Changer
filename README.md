@@ -7,13 +7,11 @@ Installation
 
 You can install in using the release tab or you can install the source code to verify there are no viruses and as well as use the source code to compile it yourself
 
-.. code-block:: bash
 
    download it by clicking "code" and then "download zip"
 
 Alternatively, you can download the release
 
-.. code-block:: bash
 
    Release tab and click on install zip.
 
@@ -22,7 +20,6 @@ Usage
 ``SgtGigdiRPC-Changer.exe``
 
 Options
-~~~~~~~
 
 .. code-block:: bash
 
