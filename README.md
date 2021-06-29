@@ -21,7 +21,6 @@ Usage
 
 Options
 
-.. code-block:: bash
 
   SgtGigdiRPC-Changer.exe --Start
 
